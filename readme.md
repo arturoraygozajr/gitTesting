@@ -1,4 +1,4 @@
-# WHOOOOAAA!!!
+# Wow!
 
 This is a readme!
 
